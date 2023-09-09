@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">Beginner Backend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kfesaxd" alt="kfesaxd" /></a> </p>
-
 - 🌱 I’m currently learning **TOP Academy**
 
 - 📫 How to reach me **heffman127@gmail.com**
